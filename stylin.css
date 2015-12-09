@@ -6,6 +6,7 @@
 h1 {
   background-color: #002b36;
   color: #eee8d5;
+  padding: 10px;
 }
 
 body {
@@ -30,6 +31,8 @@ video {
   max-width: 800px;
 }
 
-span.shitty-tagline {
+.shitty-tagline {
   font-style: italic;
+  margin-top: -15px;
+  margin-bottom: 15px;
 }
